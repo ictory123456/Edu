@@ -1,5 +1,5 @@
-# Enhancing Knowledge Tracing via Adversarial Training
-This repository contains source code for the paper "[Enhancing Knowledge Tracing via Adversarial Training](https://dl.acm.org/doi/pdf/10.1145/3474085.3475554)" to be presented at ACM MM 2021 (**Oral**).
+# Enhancing Knowledge Tracing via learnable filter
+
 
 
 ## Requirements
@@ -8,21 +8,9 @@ PyTorch==1.7.0
 Python==3.8.0
 ```
 
-## Usage
-
-### Cloning the repository
-```
-git clone git@github.com:xiaopengguo/ATKT.git
-cd ATKT
-```
-
 ### Running
-We evaluate our method on four datasets including **Statics2011**, **ASSISTments2009**, **ASSISTments2015** and **ASSISTments2017**.
+We evaluate our method on four datasets including **ASSISTments2012**, **ASSISTments2009**, **ASSISTments2015** and **ASSISTments2017**.
 
-#### Statics2011
-```
-python main.py --dataset 'statics'
-```
 
 #### ASSISTments2009
 ```
