@@ -1,0 +1,14 @@
+filter
+fold1 test auc:  0.8383048727344944
+fold2 test auc:  0.8325189202736571
+fold3 test auc:  0.8376167249568884
+fold4 test auc:  0.8260218839228224
+fold5 test auc:  0.825351072017118
+average test auc: 0.832 �� 0.0055
+ori
+fold1 test auc:  0.8377986665751694
+fold2 test auc:  0.833388953464743
+fold3 test auc:  0.8366514053465695
+fold4 test auc:  0.8280353724697243
+fold5 test auc:  0.8260165712136062
+average test auc: 0.8324 �� 0.0046

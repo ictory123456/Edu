@@ -1,0 +1,33 @@
+filter
+fold1 test auc:  0.8251316033095362
+fold2 test auc:  0.8235314905362144
+fold3 test auc:  0.8242558818978138
+fold4 test auc:  0.8300540251517119
+fold5 test auc:  0.8275320111020277
+average test auc: 0.8261 ï¿½ï¿½ 0.0024
+ori
+fold1 test auc:  0.8202973941563262
+fold2 test auc:  0.8244907145341751
+fold3 test auc:  0.8228393160936034
+fold4 test auc:  0.8293029632626674
+fold5 test auc:  0.8265239757643484
+average test auc: 0.8247 ï¿½ï¿½ 0.0031
+
+fold1 test auc:  0.8251316033095362
+fold2 test auc:  0.8235314905362144
+fold3 test auc:  0.8242558818978138
+fold4 test auc:  0.8300540251517119
+fold5 test auc:  0.8275320111020277
+average test auc: 0.8261 ¡À 0.0024
+fold1 test auc:  0.8251316033095362
+fold2 test auc:  0.8235314905362144
+fold3 test auc:  0.8242558818978138
+fold4 test auc:  0.8300540251517119
+fold5 test auc:  0.8275320111020277
+average test auc: 0.8261 ¡À 0.0024
+fold1 test auc:  0.8202973941563262
+fold2 test auc:  0.8244907145341751
+fold3 test auc:  0.8228393160936034
+fold4 test auc:  0.8293029632626674
+fold5 test auc:  0.8265239757643484
+average test auc: 0.8247 ¡À 0.0031
